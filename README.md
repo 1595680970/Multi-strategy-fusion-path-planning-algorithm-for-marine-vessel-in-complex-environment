@@ -1,4 +1,6 @@
-# Multi-strategy Fusion Path Planning Algorithm
+# Multi-strategy Fusion Path Planning Algorithm for Autonomous Surface Vessels in Complex Environments
+
+This project proposes a path planning algorithm that integrates an improved Fast Marching Method (FMM) with the Dynamic Window Approach (DWA) for Autonomous Surface Vessels (ASVs), designed to navigate dynamic obstacles in complex environments.
 
 This project proposes a path planning algorithm that integrates an improved Fast Marching Method (FMM) with the Dynamic Window Approach (DWA) for Autonomous Surface Vessels (ASVs), designed to navigate dynamic obstacles in complex environments.
 
